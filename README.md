@@ -1,5 +1,8 @@
 
 # Lotti
+
+![logo2](https://github.com/user-attachments/assets/d165470e-5a71-4660-b3d1-edc8a7815f36)
+
 A web-based platform where users can win exciting prizes by playing games and participating in thrilling contests.
 
 
@@ -21,6 +24,11 @@ A lottery-based website where users can win exciting prizes by playing games and
 - Backend: PHP
 - Payment Gateway: Razorpay
 - Database: Mysql
+
+
+## Brief look
+![screenshot-vast-sierra-59108-herokuapp-com-user_dash-php-1613371752219](https://github.com/user-attachments/assets/9e37ab40-ed6d-4d27-9ae5-31e574260449)
+![screenshot-vast-sierra-59108-herokuapp-com-admin_dash-php-1613372803632](https://github.com/user-attachments/assets/63fe26ce-c33c-4bd3-bdd4-c435ccc26f74)
 
 
 ## Acknowledgements
