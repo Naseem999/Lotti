@@ -27,6 +27,8 @@ A lottery-based website where users can win exciting prizes by playing games and
 
 
 ## Brief look
+![Lotti](https://github.com/user-attachments/assets/79f368d7-8852-4a20-85fc-8844e5cf591f)
+![Lotti-Login](https://github.com/user-attachments/assets/31ecd7f1-4721-41ab-b790-490e00a6beb0)
 ![screenshot-vast-sierra-59108-herokuapp-com-user_dash-php-1613371752219](https://github.com/user-attachments/assets/9e37ab40-ed6d-4d27-9ae5-31e574260449)
 ![screenshot-vast-sierra-59108-herokuapp-com-admin_dash-php-1613372803632](https://github.com/user-attachments/assets/63fe26ce-c33c-4bd3-bdd4-c435ccc26f74)
 
